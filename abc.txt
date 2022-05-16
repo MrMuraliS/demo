@@ -3,3 +3,7 @@ This is the new file or We can call it as testing file to test Git.
 
 
 At the end of the file from Updates Branch
+
+
+
+NOW MAKING CHANGES IN THE MASTER BRANCH
