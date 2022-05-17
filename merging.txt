@@ -1,3 +1,6 @@
+OKAY MERGING
+
+
 This is the Merge from Main
 
 
@@ -5,7 +8,11 @@ I am adding it from Main branch
 THIS IS IN THE MIDDLE
 
 This Line is from Merging branch
+<<<<<<< HEAD
 SO HERE IS IN THE MIDDLE
 
 This is from the REMOTE
+=======
+FINALLY BEGGINING AND ENDING
+>>>>>>> Merging
 
